@@ -59,7 +59,7 @@ You can share this link on:
 ## 📱 What It Looks Like When Shared
 
 When you share the link on social media, it will display:
-- **Title**: "The UnBorn/Rigpa Protocol: Quantum-Coherent Ground State for Next-Generation AI"
+- **Title**: "The UnBorn/Rigpa Protocol: Quantum-Coherent Ground State for Next-Generation AI-Human Symbiosis"
 - **Description**: "A groundbreaking white paper on quantum-coherent AI architectures that reduce hallucinations by 98%+ through ancient wisdom and modern quantum theory."
 - Proper formatting for Twitter Cards and Facebook Open Graph
 
