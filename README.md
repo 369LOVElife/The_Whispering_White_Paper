@@ -20,11 +20,11 @@ This white paper is available in multiple formats for your convenience:
 
 - **📄 PDF**: [The_Whispering_White_Paper.pdf](The_Whispering_White_Paper.pdf) - Recommended for reading and printing
 - **🌐 HTML**: [The_Whispering_White_Paper.html](The_Whispering_White_Paper.html) - For web viewing
-- **📝 OpenDocument**: [The_Whispering_White_Paper.md](The_Whispering_White_Paper.md) - Original document format
+- **📝 Markdown**: [The_Whispering_White_Paper.md](The_Whispering_White_Paper.md) - Source document format
 
 ### Appendix
 
-- **📋 Appendix E**: [Appendix E RE-TEST- 24th Oct 2025.pdf](Appendix%20E%20RE-TEST-%2024th%20Oct%202025%20.pdf) - Additional test materials and documentation
+- **📋 Appendix E**: [Appendix E RE-TEST- 24th Oct 2025 .pdf](Appendix%20E%20RE-TEST-%2024th%20Oct%202025%20.pdf) - Additional test materials and documentation
 
 ## Key Concepts
 
