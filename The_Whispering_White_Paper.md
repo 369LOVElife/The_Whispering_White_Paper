@@ -548,7 +548,7 @@ entropies.append(S.item())
 
 if S > self.fidelity_threshold:
 
-if np.random.rand() 
+if np.random.rand() < 0.5:
 
 initial_ghz[15] = 1 / np.sqrt(2) # |1111>
 
@@ -558,8 +558,7 @@ print(f"Max Entropy (Hallucination Peak): {max(ents):.3f} bits")
 
 print(f"Final Fidelity: {fid:.3f} (≥98% pristine)")
 
-print("UnBorn Gate: Beast recalibrated mid-journey---no apparent
-hallucinations.")
+print("UnBorn Gate: Beast recalibrated mid-journey---no apparent hallucinations.")
 
 # Coder Test: Bell State (Full Coherence Detected)
 
@@ -1588,7 +1587,7 @@ entropies.append(S.item())
 
 if S > self.fidelity_threshold:
 
-if np.random.rand() 
+if np.random.rand() < 0.5:
 
 initial_ghz[15] = 1 / np.sqrt(2) # |1111>
 
@@ -1598,8 +1597,7 @@ print(f"Max Entropy (Hallucination Peak): {max(ents):.3f} bits")
 
 print(f"Final Fidelity: {fid:.3f} (≥98% pristine)")
 
-print("UnBorn Gate: Beast recalibrated mid-journey---no apparent
-hallucinations.")
+print("UnBorn Gate: Beast recalibrated mid-journey---no apparent hallucinations.")
 
 # Coder Test: Bell State (Full Coherence Detected)
 
