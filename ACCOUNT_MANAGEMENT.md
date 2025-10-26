@@ -4,6 +4,8 @@
 
 This document provides comprehensive information about account management, access control, and deletion procedures related to this repository and GitHub accounts.
 
+> **Repository Owner**: This repository is maintained by [@369LOVElife](https://github.com/369LOVElife). For repository-specific requests, please contact the owner directly through the methods listed in the [Getting Help](#getting-help) section.
+
 ## Table of Contents
 
 1. [GitHub Account Deletion](#github-account-deletion)
@@ -12,6 +14,7 @@ This document provides comprehensive information about account management, acces
 4. [Fork and Clone Management](#fork-and-clone-management)
 5. [Data Privacy and Retention](#data-privacy-and-retention)
 6. [Frequently Asked Questions](#frequently-asked-questions)
+7. [Getting Help](#getting-help)
 
 ---
 
@@ -68,7 +71,7 @@ If you want to remove your access to this repository without deleting your GitHu
 3. Click "Collaborators and teams"
 4. Find your name and click "Remove"
 
-Alternatively, contact the repository owner (@369LOVElife) to request removal.
+Alternatively, contact the repository owner (see [Contact Repository Owner](#contact-repository-owner) section) to request removal.
 
 ### Unfollowing or Unwatching
 
