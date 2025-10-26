@@ -6,8 +6,8 @@ Research indicated the WHISPERING_White_Paper repository was established around 
 ## Root Cause
 The repository was cloned as a **shallow clone**, which only fetches a limited commit history. This was evidenced by:
 - The presence of `.git/shallow` file containing commit `91aeb18a86d465f42f895da357aebcf28b2cc72a`
-- Git log showing "(grafted)" marker next to the initial visible commit
-- Only 2 commits visible initially instead of the full history
+- Git log showing "(grafted)" marker next to commit 91aeb18
+- Only 2 commits visible in the current branch (the shallow boundary commit plus one newer commit) instead of the full history
 
 ## Resolution
 Converted the shallow clone to a full clone by running:
@@ -25,7 +25,7 @@ After unshallowing, the full commit history is now visible:
 - **Initial commit**: October 19, 2025 at 11:46:22 (`285194b`)
 - **Latest commit**: October 26, 2025 at 04:29:10 (`5fb87db`)
 - **Total commits**: 16 commits spanning from October 19-26, 2025
-- **Repository establishment**: Aligns with copyright notice (17th-23rd October 2025)
+- **Repository establishment**: Aligns with copyright notice (October 17-23, 2025)
 
 ## Commit Timeline
 ```
